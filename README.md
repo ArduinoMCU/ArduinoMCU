@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Debjyoti Ghosh
 
-
 ![Professional](https://img.shields.io/badge/Professional-Embedded_Systems,_Electronics,_Electrician-60b505?style=flat)
 
 
