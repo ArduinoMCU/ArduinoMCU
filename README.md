@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Debjyoti Ghosh
 
-<!--
-**ArduinoMCU/ArduinoMCU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Professional](https://img.shields.io/badge/Professional-Embedded_Systems,_Electronics,_Electrician-60b505?style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am a new embedded system developer, interested in low-level hardware, microcontrollers and real-world electronics. I mainly work with AVR (e.g. ATmega328P) and am always learning new things. I have already flashed an Arduino Uno and flashed a program to the Atmega328 chip using a USBasp programmer.
+
+---
+
+### 🛠️ Skills
+
+- ⚙️ **Embedded C** for AVR Microcontrollers  
+- 🔌 **AVR-GCC**, **AVRDUDE**, and **Makefiles**  
+- 🔧 Basic knowledge of fuse bits  
+- 🧰 Building GCC toolchains from source  
+- 🛠️ Practical experience in **Electric** and **Electronics** work
+
+---
+
+### 🔍 Future plans
+
+- 📚 ARM Cortex-M microcontrollers  
+- 💻 Writing low-level Linux drivers in C  
+- 🧠 Advanced learning of Arduino and AVR microcontroller
+
+---
+
+### 📈 Experience Overview
+
+
+
+| Area              | Experience Level |
+|-------------------|------------------|
+| 🔌 Electrical Work | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 60%  |
+| 📟 Electronics     | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 76% |
+| 💻 Embedded Systems | ⭐⭐⭐⭐ 30%        |
+
+---
+
+### 👥 Author
+- **[Debjyoti Ghosh](https://github.com/ArduinoMCU)** - Main Contributor
